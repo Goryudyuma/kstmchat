@@ -1,0 +1,5 @@
+<?php
+$pass = [
+	'user',
+	'password'
+];
